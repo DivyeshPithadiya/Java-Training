@@ -1,4 +1,4 @@
-package keywords;
+package keywords.staticKeyword;
 
 
 class Employee {
