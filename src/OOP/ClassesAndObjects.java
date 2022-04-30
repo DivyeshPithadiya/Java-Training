@@ -8,7 +8,6 @@ class multi {
 	 int multiply = a*b;
 	 System.out.println("multiplication of a and b is:"+multiply);
 	}
- 
 }
 
 
