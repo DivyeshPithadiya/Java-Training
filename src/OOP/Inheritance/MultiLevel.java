@@ -13,7 +13,6 @@ class Parent extends GrandParent{
 }
 
 class Child extends Parent{
-	
 	void ear() {
 		System.out.println("Ear");
 	}	
@@ -23,5 +22,7 @@ public class MultiLevel {
 	public static void main(String[] args) {
 		Child c = new Child();
 		c.ear();
+		c.eye();
+		c.nose();
 	}
 }
