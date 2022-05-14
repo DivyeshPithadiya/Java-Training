@@ -1,8 +1,5 @@
 package keywords.finalKeyword;
 
-
-
-
 // final class A { // This code will give an error because final class can not be inherited
 //	
 // }

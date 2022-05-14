@@ -1,5 +1,7 @@
 package OOP;
 
+import OOP.Encapsulation.AccessModifiers.protectedDemo;
+
 class multi {
 	int a = 10;
 	int b = 20;
@@ -12,12 +14,13 @@ class multi {
 
 
 
-class ClassesAndObjects{
+public class ClassesAndObjects extends protectedDemo{
 
-public static void main(String[] args)
-{	
-multi mt = new multi();
- mt.m();
+public static void main(String[] args) {	
+//multi mt = new multi();
+// mt.m();
+	
+	System.out.println(data);
 
 }
 
