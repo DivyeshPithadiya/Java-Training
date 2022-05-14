@@ -22,7 +22,7 @@ public class StringMethods {
 		System.out.println(a.compareToIgnoreCase(b));
 		System.out.println(a.equalsIgnoreCase(b));
 		System.out.println(name.endsWith("Pithadiya"));
-		System.out.println(name.startsWith("Divyesh"));
+		System.out.println(name.startsWith(b));
 		
 		
 	}
